@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ClientCMD": {
+      "commandName": "Project",
+      "commandLineArgs": "ipconfig"
+    }
+  }
+}
